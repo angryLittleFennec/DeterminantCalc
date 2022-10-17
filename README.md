@@ -2,7 +2,7 @@
 Simple determinant calculator for systems of linear equations using Crammer's method  
 
 Command line arguments: input file, output file. Ex: main.c in.txt out.txt  
-Input file should contain size of the matrix, then the matrix itself: <size> strings and <size+1> columns  
+Input file should contain size of the matrix, then the matrix itself: (size) strings and (size+1) columns  
 Ex:  
 4  
 1 1 1 4 5  
